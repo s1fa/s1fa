@@ -14,16 +14,4 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 
-I'm currently pursuing a PhD in Bioinformatics at a university, with a research focus on Evolutionary Biology. My interests include:
-
-- 🔬 Evolutionary Biology
-- 🤖 Machine Learning
-- 🧠 Generative Large Models
-- 📊 Deep Learning for solving biological problems
-
-I'm actively learning about machine learning and deep learning to apply these techniques in my research. I aim to leverage deep learning to uncover insights and solve complex problems in biology.
-
-Feel free to reach out if you want to collaborate or discuss any exciting ideas!
-
-- 📫 How to reach me: sifa200011@gmail.con
-- 😄 Pronouns: sifa
+- 📫 How to reach me: sifa200011@gmail.com
